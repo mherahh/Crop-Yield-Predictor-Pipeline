@@ -1,0 +1,6 @@
+Model,MAE,RMSE,R2,MAPE
+Random Forest (untuned),13649.149,26197.194,0.919,21.609
+Random Forest (tuned),13845.645,26790.403,0.915,21.723
+Gradient Boosting (untuned),17263.368,29291.389,0.899,34.75
+Gradient Boosting (tuned),21034.102,34714.666,0.858,43.674
+Linear(baseline),31670.054,48107.931,0.726,81.889
